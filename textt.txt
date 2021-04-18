@@ -1,0 +1,3 @@
+	The basic idea of compression is to exploit (in fact, remove) redundancy in data. 
+Compressioncan be broken down into two broad categories. 
+In lossless compression, from the compressed data one is able to reproduce the original data exactly. 
